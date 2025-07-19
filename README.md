@@ -13,7 +13,7 @@ Welcome to my personal portfolio website project! This project showcases my educ
 
 📄 Resume section with downloadable link
 
-📞 Contact Form connected to footer.
+📞 Contact Form connected to footer
 
 
 
