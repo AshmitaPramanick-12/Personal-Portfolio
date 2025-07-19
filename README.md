@@ -25,3 +25,10 @@ CSS3 – Styling, layout design, and animations
 JavaScript – DOM interactivity, form control
 
 Git & GitHub – Version control and hosting
+
+
+
+
+
+🔗 Live Demo
+reliable-kashata-5846d9.netlify.app
