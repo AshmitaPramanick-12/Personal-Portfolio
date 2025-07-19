@@ -30,5 +30,6 @@ Git & GitHub – Version control and hosting
 
 
 
-🔗 Live Demo
-reliable-kashata-5846d9.netlify.app
+🔗 Live Demo:
+
+https://reliable-kashata-5846d9.netlify.app/
